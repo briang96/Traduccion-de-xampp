@@ -1,5 +1,5 @@
-# Traduccion-de-xampp
-
+# Traduccion de Xampp al Español
+ 
 Tutorial paso a paso sobre cómo instalar el idioma español en XAMPP:
 
 Paso 1: Descargar los archivos de idioma
