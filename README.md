@@ -19,5 +19,3 @@ Paso 4: Configurar XAMPP para usar el nuevo idioma
 4. Busca la opción: "Change Language" (Y asegúrate de que esté seleccionada la bandera de Estados Unidos).
 
 ¡Eso es todo! Ahora deberías tener XAMPP configurado para usar el idioma que instalaste. Puedes verificarlo abriendo el panel de control de XAMPP para ver si el idioma se ha cambiado correctamente.
-
-Recuerda que este tutorial es solo para cambiar el idioma en la interfaz de usuario de XAMPP, no afectará los idiomas de los sitios web que desarrolles. Si deseas cambiar el idioma de un proyecto específico, deberás ajustar la configuración de ese proyecto en particular.
